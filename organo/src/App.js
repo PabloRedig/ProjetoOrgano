@@ -7,7 +7,7 @@ function App() {
       <Banner/>    
       <CampoTexto/>  
       
-    <h1> Teste 1234 </h1>
+    <h1> Teste 1234567 </h1>
     </div>
   );
 }  
