@@ -5,7 +5,9 @@ function App() {
   return (
     <div className="App">      
       <Banner/>    
-      <CampoTexto/>   
+      <CampoTexto/>  
+      
+    <h1> Teste 1234 </h1>
     </div>
   );
 }  
