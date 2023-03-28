@@ -1,0 +1,16 @@
+.rodape{
+    background-color: #6278f7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 32px;
+    color: white;
+}
+
+.rodape span{
+    font-size: 20px;
+}
+
+.redeSociais img{
+    margin: 0 32px;
+}
